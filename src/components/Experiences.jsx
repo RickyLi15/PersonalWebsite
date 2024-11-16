@@ -25,6 +25,7 @@ const Experiences = () => {
                     <ul>
                         <li>
                         • EC2 Commercial Software Services Team
+                        • Worked on migrating applications from .NET framework to .NET core on linux
                         </li>
                     </ul>
 
